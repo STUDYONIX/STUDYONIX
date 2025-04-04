@@ -1,9 +1,5 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;I'm+STUDYONIX;Welcome+to+my+GitHub!&center=true&size=30">
-  </a>
-</h1>
+# 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=STUDYONIX&theme=radical)
 
-## About Me
-- 💻 Game Developer
-- 🎮 FiveM Enthusiast
+## 📊 My GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=STUDYONIX&show_icons=true)
